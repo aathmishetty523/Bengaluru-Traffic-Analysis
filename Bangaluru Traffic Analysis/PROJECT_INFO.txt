@@ -1,0 +1,9 @@
+Project: Urban Traffic Flow & Congestion Analytics
+Primary file: analysis.ipynb
+Dashboard: DASHBOARD.html
+Report: REPORT.md
+Charts: charts/
+Dataset: Bengaluru urban traffic dataset referenced by the notebook
+Records analyzed: 8,936
+Date range: 2022-01-01 to 2024-08-09
+Areas: 8
