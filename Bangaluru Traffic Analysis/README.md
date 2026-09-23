@@ -103,6 +103,4 @@ The `charts` folder contains the main visualizations used for the project presen
 
 Analyzed 8,936 Bengaluru traffic records to identify congestion patterns, high-volume roads, bottlenecks, traffic anomalies, and network-efficiency indicators using Python, Pandas, NumPy, Matplotlib, Seaborn and Plotly. Developed KPI logic, risk flags, delay metrics and scenario analysis to support data-driven traffic insights.
 
-## Note
 
-The numerical findings in this repository are based on the results already present in the uploaded Jupyter Notebook. The raw CSV dataset is not included in this package because the uploaded notebook references it from a local computer path.
